@@ -10,7 +10,7 @@ The dataset is gotten from 365 DataScience Github [download here](https://github
 The dataset consists of shoe sales categorized into two major groups:
 Men's Shoes
 Women's Shoes
-Bundling these categories together could lead to misleading predictions, so they are analyzed separately. Additionally, the inventory is segmented by:
+Bundling these categories together could lead to misleading predictions, so they are analyzed separately. Additionally, the inventory is segmented by: 
 1. Shoe Size
 2. Country
 3. Gender
